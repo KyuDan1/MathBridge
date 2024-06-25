@@ -1,6 +1,6 @@
 ### Algorithm Description for Extracting LaTeX Equations with Context
 
-This algorithm is designed to extract LaTeX equations from a given text, along with their surrounding context. The algorithm is specifically tailored to identify equations in three formats commonly used in LaTeX documents: inline equations delimited by single dollar signs (`$...$`), block equations delimited by double dollar signs (`$$...$$`), and equations within `\begin{equation}...\end{equation}` environments. Below, we provide a detailed explanation of the algorithm, suitable for inclusion in a technical paper for the AAAI conference.
+This algorithm is designed to extract LaTeX equations from a given text, along with their surrounding context. The algorithm is specifically tailored to identify equations in three formats commonly used in LaTeX documents: inline equations delimited by single dollar signs (`$...$`), block equations delimited by double dollar signs (`$$...$$`), and equations within `\begin{equation}...\end{equation}` environments. Below, we provide a detailed explanation of the algorithm.
 
 #### Algorithm Outline
 
