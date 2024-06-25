@@ -1,7 +1,7 @@
 # MathBridge_new
 
-data folder:
-code related to 'collecting data'
+-- folder --
+./data  code related to 'collecting data'
 
 1. LaTeX Data with forward, backward English data collect<br>
     detecting formula criterion:
