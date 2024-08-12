@@ -3,7 +3,7 @@
 ## Dataset
 The MathBridge dataset is available on huggingface🤗.
 
-- [MathBridge in huggingface🤗 dataset](https://huggingface.co/datasets/aaai25withanonymous/MathBridge)
+- [MathBridge in huggingface🤗 dataset](https://huggingface.co/datasets/Kyudan/MathBridge)
 
 ## Fine-tuned Models
 We have fine-tuned a range of models on the MathBridge. These models are available for download and use on Hugging Face.
